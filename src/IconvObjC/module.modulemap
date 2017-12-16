@@ -1,0 +1,4 @@
+module IconvObjC {
+	header "IconvObjC.h"
+	export *
+}

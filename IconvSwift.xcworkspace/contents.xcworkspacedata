@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:project/IconvObjC/IconvObjC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:project/IconvSwift/IconvSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:project/IconvUserApp/IconvUserApp.xcodeproj">
+   </FileRef>
+</Workspace>
